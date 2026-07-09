@@ -76,9 +76,6 @@ face-traking/
 - Add config file for confidence threshold, resolution, and model selection
 - Package as a reusable Python module for the broader robot software stack
 
-## Screenshots
-
-*(Screenshot of the application running with detected faces to be added.)*
 
 ## License
 
